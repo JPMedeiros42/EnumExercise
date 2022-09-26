@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\bin\Debug\net5.0\EnumEx2.exe
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\bin\Debug\net5.0\EnumEx2.deps.json
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\bin\Debug\net5.0\EnumEx2.runtimeconfig.json
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\bin\Debug\net5.0\EnumEx2.runtimeconfig.dev.json
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\bin\Debug\net5.0\EnumEx2.dll
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\bin\Debug\net5.0\ref\EnumEx2.dll
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\bin\Debug\net5.0\EnumEx2.pdb
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\EnumEx2.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\EnumEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\EnumEx2.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\EnumEx2.AssemblyInfo.cs
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\EnumEx2.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\EnumEx2.dll
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\ref\EnumEx2.dll
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\EnumEx2.pdb
+C:\Users\peter\source\repos\EnumEx2\EnumEx2\obj\Debug\net5.0\EnumEx2.genruntimeconfig.cache
